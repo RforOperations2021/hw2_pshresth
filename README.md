@@ -1,6 +1,6 @@
 # Project Summary & Description
 
-Every data science project has a lifecycle - from data exploration to aggregation to feature engineering and model building and tuning. Courtesy of Kaggle's customer churning dataset, this project attempts to walk through the project's lifecycle. The intention here is to build a predictive model that could predict the churning rate to strategize early intervention or give commercial incentives and reduce the attrition rate. And following are the three cycles (or tabs in the dashboard) in the project:
+Every data science project has a lifecycle - from data exploration to aggregation to feature engineering and model building and tuning. Courtesy of [Kaggle's customer churning dataset](https://www.kaggle.com/blastchar/telco-customer-churn), this project attempts to walk through the project's lifecycle. The intention here is to build a predictive model that could predict the churning rate to strategize early intervention or give commercial incentives and reduce the attrition rate. And following are the three cycles (or tabs in the dashboard) in the project:
 
 1. Data Exploration: What factors influence the churning rate? Is it demographics, monthly payments, or tenure? This tab allows you to explore and unearth the patterns among churners. It's like finding the right ingredients for a recipe.
 2. Data Table: Once you identify features that they think are important to build the model, you will be able to aggregate them in this tab and, better, download the table.
